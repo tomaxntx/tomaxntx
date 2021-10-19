@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomaxntx
-- 👀 I’m interested in automation projects
+- 👀 I’m interested in awk, php, python, swift
 - 🌱 I’m currently learning interesting things
-- 💞️ I’m looking to collaborate on audio/video oriented projects
+- 💞️ I’m looking to collaborate on media automation oriented projects
 - 📫 How to reach me? Try my gmail account at tomax dot ntx
 
 <!---
